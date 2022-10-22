@@ -25,6 +25,8 @@ Deliverable 2.
 ## T-Tests on Suspension Coils
 Deliverable 3
   
+  
+  ![TEST](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/Deliverable%203/image.png)
 
 
 
