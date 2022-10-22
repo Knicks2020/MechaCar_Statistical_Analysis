@@ -8,7 +8,7 @@ Deliverable 1.
   "In the summary output, each Pr(>|t|) value represents the probability that each 
  coefficient contributes a random amount of variance to the linear model".  Based on our calculations it does not appear that the vehicle length & the ground clearance are completely random.  They both appear to have an impact on the miles per gallon of each car.  The intercept is statistically significant so the slope is not considereed to be zero. Also, after viewing the multiple R-Squared value we see that it is greater that 7 so I believe that it predicts the mpg of each vehicle effectively.
 
-![Test](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/pictures/2022-10-21%20(1).png)
+![Mecha_RScript](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/pictures/2022-10-21%20(1).png)
 
 
 
