@@ -25,6 +25,14 @@ Deliverable 2.
 ## T-Tests on Suspension Coils
 Deliverable 3
   
+  In the follwing image we will see the results of our T-tests on the various Lots.
+  * Lot 1 is not significantly different from the population mean:  The P-Value is equal to 1.
+  
+  * Lot 2 is not significantly different either from the population mean:  The P-Value is equal to .6072
+
+  * Lot 3 IS significantly different from the popultaion mean:  The P-Value is .04168
+
+
   
   ![TEST](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/Deliverable%203/image.png)
 
