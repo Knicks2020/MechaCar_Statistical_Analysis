@@ -34,6 +34,8 @@ Deliverable 3
 
   ![T-Test_by_Lot](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/Deliverable%203/image.png)
 
+## Study Design: MechaCar vs Competition
+
 
 
 
