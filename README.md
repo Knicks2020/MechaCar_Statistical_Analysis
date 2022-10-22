@@ -18,9 +18,9 @@ Deliverable 2.
 
   The design specifications / variance for Lots 1 & 2 do not exceed 100 pounds per square inch.  However the pounds per square inch for Lot #3 are 170.3 which does exceed the 100lb threshold.
 
-![TEST](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/pictures/mean/image.png)
+![Mean,Medican, Variance](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/pictures/mean/image.png)
 
-![Holding](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/pictures/image.png)
+![Manufacturing_Lot](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/pictures/image.png)
 
 ## T-Tests on Suspension Coils
 Deliverable 3
@@ -32,9 +32,7 @@ Deliverable 3
 
   * Lot 3 IS significantly different from the popultaion mean:  The P-Value is .04168
 
-
-  
-  ![TEST](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/Deliverable%203/image.png)
+  ![T-Test_by_Lot](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/Deliverable%203/image.png)
 
 
 
