@@ -13,3 +13,5 @@ Deliverable 1.
 Deliverable 2.
 * The suspension coil’s PSI continuous variable across all manufacturing lots
 * The following PSI metrics for each lot: mean, median, variance, and standard deviation.
+
+![TEST](https://github.com/Knicks2020/MechaCar_Statistical_Analysis/blob/main/pictures/image.png)
