@@ -1,3 +1,10 @@
+#### Deliverable 1 #####
+
+
+MechaCar_mpg <- read.csv(file="MechaCar_mpg.csv", stringsAsFactors=FALSE)
+?lm()
+model = lm(mpg ~ vehicle_weight + spoiler_angle + ground_clearance + AWD + vehicle_length, data = df)
+summary(model)
 
 ###Deliverable 2
 ##Suspension_Coil <- read.csv(file='Suspension_Coil.csv',check.names=F,stringsAsFactors = F)
